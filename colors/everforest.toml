@@ -1,0 +1,12 @@
+[colors]
+background = "#2f383e"
+foreground = "#d3c6aa"
+cursor_fg = "#d3c6aa"
+cursor_bg = "#7a8478"
+selection_fg = "#d3c6aa"
+selection_bg = "#7a8478"
+ansi = ["#4b565c", "#e67e80", "#a7c080", "#dbbc7f", "#7fbbb3", "#d699b6", "#83c092", "#d3c6aa"]
+brights = ["#4b565c", "#e67e80", "#a7c080", "#dbbc7f", "#7fbbb3", "#d699b6", "#83c092", "#d3c6aa"]
+
+[metadata]
+name = "everforest"
