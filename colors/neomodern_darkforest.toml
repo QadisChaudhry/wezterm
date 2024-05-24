@@ -1,9 +1,9 @@
 [colors]
 foreground = "#bbbac1"
 background = "#181b1b"
-cursor_bg = "#bbbac1"
-cursor_border = "#bbbac1"
-cursor_fg = "#181b1b"
+cursor_bg = "#566655"
+cursor_border = "#566655"
+cursor_fg = "#d3c6aa"
 selection_bg = "#313b35"
 selection_fg = "#bbbac1"
 split = "#7a8478"
