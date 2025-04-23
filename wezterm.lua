@@ -4,7 +4,8 @@ local config = {}
 config.color_scheme_dirs = { "./colors" }
 config.color_scheme = "darkforest"
 
--- config.harfbuzz_features = {"calt=0", "clig=0", "liga=0"}
+-- Disable ligatures
+config.harfbuzz_features = {"calt=0", "clig=0", "liga=0"}
 
 config.font = wezterm.font("JetBrainsMono Nerd Font")
 config.font_size = 16.0
